@@ -3,4 +3,11 @@ this is a python program to find the mobile network across world and location of
 
 completely verifies by placing number of phone including country code will get result.
 
-author/dev(www.chakradharreddy.me)
+-------------------------------------------------------------------------------------
+
+### Developed by
+
+Developer/Author: [chakradhar reddy](https://www.chakradharreddy.me/)
+
+
+### No-copyright
